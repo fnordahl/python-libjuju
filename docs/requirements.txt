@@ -1,3 +1,4 @@
+git+https://github.com/johnsca/pymacaroons.git@refactor/pynacl#egg=pymacaroons
 pytz<2018.0,>=2017.2  # conflict between sphinx and macaroonbakery
 sphinx
 sphinxcontrib-asyncio
